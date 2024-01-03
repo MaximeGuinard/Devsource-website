@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://devsource.fr/</loc>
+  <lastmod>2022-11-07T14:26:29+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/apropos.html</loc>
+  <lastmod>2022-05-19T20:08:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/services.html</loc>
+  <lastmod>2022-05-19T20:55:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/portfolio.html</loc>
+  <lastmod>2022-05-19T20:31:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/contact.html</loc>
+  <lastmod>2022-05-19T20:32:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs.html</loc>
+  <lastmod>2022-05-19T20:10:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/merci.html</loc>
+  <lastmod>2022-08-17T17:02:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/arrondir-un-nombre-lentier-le-plus-proche.html</loc>
+  <lastmod>2022-05-19T20:55:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/quel-langage-de-programmation.html</loc>
+  <lastmod>2022-05-19T20:55:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/operateurs-d'union-de-dictionnaire.html</loc>
+  <lastmod>2022-05-19T20:55:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/quest-ce-que-le-decapage-en-python.html</loc>
+  <lastmod>2022-05-19T20:55:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/hebergementdevsource.html</loc>
+  <lastmod>2022-05-19T20:55:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/liferprecrute.html</loc>
+  <lastmod>2022-05-19T20:55:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/debutdusite.html</loc>
+  <lastmod>2022-05-19T20:55:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/index.html</loc>
+  <lastmod>2022-11-07T14:26:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/plandusite.html</loc>
+  <lastmod>2022-05-19T20:25:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/utiliserwordpresspourunsite.html</loc>
+  <lastmod>2022-05-19T20:55:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/500membres.html</loc>
+  <lastmod>2022-05-19T20:54:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/giveawaydevsource.html</loc>
+  <lastmod>2022-05-19T20:55:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/liferp.html</loc>
+  <lastmod>2022-05-19T20:55:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/?C=N;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/?C=M;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/?C=S;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/?C=D;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/commentdemarerenfreelance.html</loc>
+  <lastmod>2022-05-19T20:55:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/css/</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/error.html</loc>
+  <lastmod>2022-05-19T20:53:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/fonts/</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/img/</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/?C=N;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/?C=M;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/?C=S;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/?C=D;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/css/?C=N;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/css/?C=M;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/css/?C=S;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/css/?C=D;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/error-404.html</loc>
+  <lastmod>2022-05-19T20:17:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/fonts/?C=N;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/fonts/?C=M;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/fonts/?C=S;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/fonts/?C=D;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/img/?C=N;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/img/?C=M;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/img/?C=S;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/img/?C=D;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/?C=N;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/?C=M;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/?C=S;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/?C=D;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/css/</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/fonts/</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/?C=N;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/?C=M;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/?C=S;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/?C=D;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/jquery/</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/css/?C=N;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/css/?C=M;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/css/?C=S;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/css/?C=D;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/fonts/?C=N;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/fonts/?C=M;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/fonts/?C=S;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/fonts/?C=D;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/img/?C=N;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/img/?C=M;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/img/?C=S;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/img/?C=D;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/?C=N;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/?C=M;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/?C=S;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/?C=D;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/css/?C=N;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/css/?C=M;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/css/?C=S;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/css/?C=D;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/fonts/?C=N;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/fonts/?C=M;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/fonts/?C=S;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/fonts/?C=D;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/?C=N;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/?C=M;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/?C=S;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/?C=D;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/?C=N;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/?C=M;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/?C=S;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/?C=D;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/css/</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/fonts/</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/js/</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/?C=N;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/?C=M;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/?C=S;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/?C=D;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/css/</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/fonts/</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/jquery/?C=N;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/jquery/?C=M;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/jquery/?C=S;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/jquery/?C=D;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/css/?C=N;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/css/?C=M;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/css/?C=S;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/css/?C=D;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/fonts/?C=N;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/fonts/?C=M;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/fonts/?C=S;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/ionicons/fonts/?C=D;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/?C=N;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/?C=M;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/?C=S;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/?C=D;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/css/?C=N;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/css/?C=M;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/css/?C=S;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/css/?C=D;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/fonts/?C=N;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/fonts/?C=M;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/fonts/?C=S;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/fonts/?C=D;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/js/?C=N;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/js/?C=M;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/js/?C=S;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/js/?C=D;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/?C=N;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/?C=M;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/?C=S;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/?C=D;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/css/?C=N;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/css/?C=M;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/css/?C=S;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/css/?C=D;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/fonts/?C=N;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/fonts/?C=M;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/fonts/?C=S;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/fonts/?C=D;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/?C=N;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/?C=M;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/?C=S;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/?C=D;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/animated.less</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/bordered-pulled.less</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/core.less</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/fixed-width.less</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/font-awesome.less</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/icons.less</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/larger.less</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/list.less</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/mixins.less</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/path.less</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/rotated-flipped.less</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/screen-reader.less</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/stacked.less</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/variables.less</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/?C=N;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/?C=M;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/?C=S;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/?C=D;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/_animated.scss</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/_bordered-pulled.scss</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/_core.scss</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/_fixed-width.scss</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/_icons.scss</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/_larger.scss</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/_list.scss</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/_mixins.scss</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/_path.scss</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/_rotated-flipped.scss</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/_screen-reader.scss</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/_stacked.scss</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/_variables.scss</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/font-awesome.scss</loc>
+  <lastmod>2017-03-06T22:11:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/jquery/?C=N;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/jquery/?C=M;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/jquery/?C=S;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/jquery/?C=D;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/css/?C=N;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/css/?C=M;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/css/?C=S;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/css/?C=D;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/fonts/?C=N;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/fonts/?C=M;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/fonts/?C=S;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/fonts/?C=D;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/js/?C=N;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/js/?C=M;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/js/?C=S;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/bootstrap/js/?C=D;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/css/?C=N;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/css/?C=M;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/css/?C=S;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/css/?C=D;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/fonts/?C=N;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/fonts/?C=M;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/fonts/?C=S;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/fonts/?C=D;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/?C=N;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/?C=M;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/?C=S;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/less/?C=D;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/?C=N;O=A</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/?C=M;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/?C=S;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://devsource.fr/blogs/vendor/font-awesome/scss/?C=D;O=D</loc>
+  <lastmod>2022-11-08T11:12:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+
+
+</urlset>

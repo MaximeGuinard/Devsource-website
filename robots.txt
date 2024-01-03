@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /vendor/
+
+
+Sitemap: https://devsource.fr/sitemap.xml

@@ -1,0 +1,881 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8">
+    <title>Development Source → 🌍 Aide, Partage et Host</title>
+<meta name="description" content="Le site Development Source (Devsource) une communauté d'aide et de partage mais aussi hébergeur !">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="GUINARD Maxime">
+    <meta name="keywords" content="developmentsource, development, développeur, lua, python, html, css, seo, sea, sea fr, seo fr, glua, gmod, garry'smod, maximeguinard">
+        <meta name=robots content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel=canonical href="https://devsource.fr/"/>
+<meta property=og:locale content=fr_FR />
+<meta property=og:type content=website />
+<meta property=og:title content="Development Source → 🌍 Aide, Partage et Host"/>
+<meta property=og:description content="Le site Development Source (Devsource) une communauté d'aide et de partage mais aussi hébergeur !"/>
+<meta property=og:url content="https://devsource.fr/"/>
+<meta property=og:site_name content="Maxime GUINARD"/>
+<meta property=og:updated_time content="2023-06-19T19:36:22+00:00"/>
+<meta property=og:image content="https://i0.wp.com/maxime-guinard.fr/wp-content/uploads/2023/03/personne-sur-google-qui-tape-sur-sont-ordinateur-scaled.jpg"/>
+<meta property=og:image:secure_url content="https://i0.wp.com/maxime-guinard.fr/wp-content/uploads/2023/03/personne-sur-google-qui-tape-sur-sont-ordinateur-scaled.jpg"/>
+<meta property=og:image:width content=1024 />
+<meta property=og:image:height content=681 />
+<meta property=og:image:alt content="personne sur google qui tape sur sont ordinateur"/>
+<meta property=og:image:type content="image/jpeg"/>
+<meta property=article:published_time content="2022-01-24T05:25:33+00:00"/>
+<meta property=article:modified_time content="2023-06-19T19:36:22+00:00"/>
+<meta name=twitter:card content=summary_large_image />
+<meta name=twitter:title content="Development Source → 🌍 Aide, Partage et Host"/>
+<meta name=twitter:description content="Le site Development Source (Devsource) une communauté d'aide et de partage mais aussi hébergeur !"/>
+<meta name=twitter:image content="https://i0.wp.com/maxime-guinard.fr/wp-content/uploads/2023/03/personne-sur-google-qui-tape-sur-sont-ordinateur-scaled.jpg"/>
+<meta name=twitter:label1 content="Écrit par"/>
+<meta name=twitter:data1 content="Maxime GUINARD"/>
+<meta name=twitter:label2 content="Temps de lecture"/>
+<meta name=twitter:data2 content="10 minutes"/>
+    <link rel="icon" href="img/fav.png" type="image/x-icon">
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="ionicons/css/ionicons.min.css" rel="stylesheet">
+
+    <!-- main css -->
+    <link href="css/style.css" rel="stylesheet">
+
+
+    <!-- modernizr -->
+    <script src="js/modernizr.js"></script>
+</head>
+
+<body>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Development Source",
+  "logo": "https://devsource.fr/img/logo.png",
+  "url": "https://devsource.fr/",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "maxime.guinard.pro@gmail.com",
+    "telephone": "0665132436",
+    "contactType": "customer support",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Avenue du Bac",
+      "addressLocality": "Saint-Maur-des-Fossés",
+      "postalCode": "94210",
+      "addressCountry": "France"
+    }
+  }
+}
+</script>
+<script type="application/ld+json">
+    {
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "🌍 Development Source | Une communauté dynamique de développeur",
+  "description": "Découvrez Development Source, une communauté dynamique regroupant des développeurs passionnés. Rejoignez-nous pour partager vos connaissances, demander de l'aide et participer à des projets passionnants !",
+  "thumbnailUrl": "https://devsource.fr/img/logo.png",
+  "uploadDate": "2023-06-21T00:00:00Z",
+  "contentUrl": "https://www.youtube.com/watch?v=8lsnu0UEPiM&t=1s",
+  "embedUrl": "https://www.youtube.com/embed/8lsnu0UEPiM",
+  "interactionCount": "12345"
+}
+</script>
+
+<script type="application/ld+json">
+    {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+    {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Organization",
+        "name": "Development Source"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "John Doe"
+      },
+      "reviewBody": "J'ai découvert Development Source il y a quelques mois et je suis extrêmement satisfait de ma découverte. La communauté est incroyablement accueillante et les ressources disponibles sont de grande qualité. Je recommande vivement !"
+    },
+    {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Organization",
+        "name": "Development Source"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4.5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Jane Smith"
+      },
+      "reviewBody": "Development Source a été une véritable révélation pour moi. J'y ai trouvé des partenaires de projet et des conseils précieux pour améliorer mes compétences en développement. Je suis reconnaissant d'avoir rejoint cette communauté."
+    },
+    // Ajoutez ici les autres avis
+    {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Organization",
+        "name": "Development Source"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4.2"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Robert Johnson"
+      },
+      "reviewBody": "Development Source est un lieu d'apprentissage idéal pour tous les passionnés de développement. L'équipe est très compétente et l'atmosphère est conviviale. Je recommande fortement cette communauté !"
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Accueil",
+      "item": "https://devsource.fr/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "À propos",
+      "item": "https://devsource.fr/apropos.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Nos Services",
+      "item": "https://devsource.fr/services.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "Portfolio",
+      "item": "https://devsource.fr/portfolio.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "name": "Contact",
+      "item": "https://devsource.fr/contact.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "name": "Blogs",
+      "item": "https://devsource.fr/blogs.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "name": "Forum",
+      "item": "https://forum.devsource.fr/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+    {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce que Development Source ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Development Source est une communauté dynamique regroupant des développeurs passionnés. Elle offre un espace d'échange, de collaboration et d'apprentissage pour les professionnels du développement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quels sont les services proposés par Development Source ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Development Source propose divers services de développement, notamment la personnalisation de solutions, des conseils et des formations, ainsi que la création de projets web et d'applications."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Comment puis-je rejoindre la communauté Development Source ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pour rejoindre la communauté Development Source, vous pouvez visiter notre site web officiel et vous inscrire gratuitement. Vous aurez alors accès à nos forums, nos ressources et nos projets collaboratifs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quels langages de programmation sont couverts par Development Source ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Development Source couvre une large gamme de langages de programmation, tels que Lua, Python, HTML, JavaScript, et bien d'autres. Nous encourageons la diversité et l'apprentissage continu."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Comment puis-je contacter le support client de Development Source ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vous pouvez contacter notre support client par e-mail à l'adresse maxime.guinard.pro@gmail.com ou par téléphone au 0665132436. Nous sommes là pour répondre à vos questions et vous aider dans vos démarches."
+      }
+    }
+  ]
+}
+</script>
+    <!-- Preloader -->
+    <div id="preloader">
+        <div class="pre-container">
+            <div class="spinner">
+                <div class="double-bounce1"></div>
+                <div class="double-bounce2"></div>
+            </div>
+        </div>
+    </div>
+    <!-- end Preloader -->
+
+    <div class="container-fluid">
+        <!-- box header -->
+        <header class="box-header">
+            <div class="box-logo">
+                <a href="https://devsource.fr/"><img src="img/logo.png" width="80" alt="Logo"></a>
+            </div>
+            <!-- box-nav -->
+            <a class="box-primary-nav-trigger" href="#navbar">
+                <span class="box-menu-text">Menu</span><span class="box-menu-icon"></span>
+            </a>
+            <!-- box-primary-nav-trigger -->
+        </header>
+        <!-- end box header -->
+
+<!-- nav -->
+<nav>
+    <ul class="box-primary-nav">
+        <li class="box-label">🗺️ Development Source</li>
+        <li><a href="https://devsource.fr/">👑 DevSource</a></li>
+        <li><a href="https://devsource.fr/apropos.html">👪 À propos</a></li>
+        <li><a href="https://devsource.fr/services.html">📈 Nos Service</a> </li>
+        <li><a href="https://devsource.fr/portfolio.html">📷 Portfolio</a></li>
+        <li><a href="https://devsource.fr/contact.html">☎️ Contact</a></li>
+        <li><a href="https://devsource.fr/blogs.html">💭 Blogs</a></li>
+        <li><a href="https://forum.devsource.fr/">🌎 Forum</a></li>
+
+        <li class="box-label">📡 Follow Nous</li>
+<li class="box-social"><a href="https://www.linkedin.com/company/86017955/"><i class="ion-social-linkedin"></i></a></li>
+
+<li class="box-social"><a href="https://www.instagram.com/devsource.fr/"><i class="ion-social-instagram-outline"></i></a></li>
+
+<li class="box-social"><a href="https://www.youtube.com/channel/UCYhgeBbhMjhcVyPJpu2O2TQ"><i class="ion-social-youtube"></i></a></li>
+    </ul>
+</nav>
+<!-- end nav -->
+</div>
+
+        <!-- box-intro -->
+        <section class="box-intro">
+            <div class="table-cell">
+                <h1 class="box-headline letters rotate-2">
+                    <span class="box-words-wrapper">
+                        <b class="is-visible">Développement</b>
+                        <b>&nbsp;ㅤㅤㅤAide</b>
+                        <b>ㅤㅤPartage</b>
+                        <b>ㅤㅤㅤHost</b>
+                    </span>
+		        </h1>
+                <h3 class="uppercase">Nous </h3>
+                <h5 class="uppercase">&rarr; par nous pour nous contre eux.</h5>
+                <h5 class="uppercase">ㅤㅤㅤ</h5>
+                <h5 class="uppercase">ㅤㅤㅤ</h5>
+                <h5 class="uppercase">ㅤㅤㅤ</h5>
+                <!-- Pager -->
+                <ul class="pager">
+                    <li>
+                        <a href="https://forum.devsource.fr/index.php"><strong>&rarr;ㅤForum</strong> </a>
+                        <a href="https://devsource.fr/blogs.html"><strong>&rarr;ㅤBlogs</strong></a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="mouse">
+                <div class="scroll"></div>
+            </div>
+            
+        </section>
+
+        
+        <!-- end box-intro -->
+    </div>
+
+    <!-- top bar -->
+    <div class="top-bar">
+        <h1><a href="https://maxime-guinard.com/">Nous</a></h1>
+        <p><a href="#">Accueil</a> / <a href="https://devsource.fr/services.html">Services</a></p>
+    </div>
+    <!-- end top bar -->
+
+    <!-- Main container -->
+    <div class="container main-container clearfix"> 
+        <div class="col-md-6">
+            <img src="img/wallpaper.jpg" class="img-responsive" alt="Development Source BackGround" />
+                        <div class="contact-info">
+                            <p><i class="ion-android-call"></i> <a href="https://discord.gg/K2uUHdf">Discord</a></p>
+                            <p><i class="ion-android-options"></i><a href="https://maxime-guinard.fr">Maxime Guinard</a></p>
+                            <p><i class="ion-ios-email"></i> dev@maxime-guinard.fr</p>
+                        
+        </div>
+        </div>
+        <div class="col-md-6">
+           <h3 class="uppercase">Nous </h3>
+           <h5>👑 Une <strong>communauté dynamique de développeurs</strong></h5>
+           <div class="h-30"></div>
+            <p><strong>Notre serveur <a href="https://discord.gg/K2uUHdf">Discord</a> et notre <a href="https://forum.devsource.fr/index.php">Forum</a></strong> vous pourrez de <strong>proposer vos services, faire des demandes d'aide, présenter vos projets de contenu, 
+                chercher un "créateur"</strong> ou encore quelqu'un qui pourra vous <strong>apprendre à développer</strong>. Le serveur dispose de channels dédiés au <strong>Lua, Python, HTML, 
+                Javascript...</strong> Vous pourrez aussi y présenter vos serveurs de jeux. Il est organisé par niveaux, vous permettant de mieux vous y retrouver </p>
+
+            <p>"Nous nous <strong>déconnectons pour mieux nous reconnecter</strong> à notre véritable identité. 🌍"</p>
+            <div class="h-10"></div>
+            <ul class="social-ul">
+<li class="box-social"><a href="https://www.linkedin.com/company/86017955/"><i class="ion-social-linkedin"></i></a></li>
+
+<li class="box-social"><a href="https://www.instagram.com/devsource.fr/"><i class="ion-social-instagram-outline"></i></a></li>
+
+<li class="box-social"><a href="https://www.youtube.com/channel/UCYhgeBbhMjhcVyPJpu2O2TQ"><i class="ion-social-youtube"></i></a></li>
+            </ul>
+
+
+        </div>
+    </div>
+    <!-- end Main container -->
+    
+    <!-- top bar -->
+    <div class="top-bar">
+        <h1><a href="https://devsource.fr/apropos.html">L'équipe</a></h1>
+        <p><a href="#">Accueil</a> / <a href="https://devsource.fr/apropos.html">L'équipe</a></p>
+    </div>
+    <!-- end top bar -->
+
+    <!-- end Main container -->
+    <main id="main">
+        <!-- ======= Our Team Section ======= -->
+        <section id="team" class="container main-container clearfix">
+            <div class="container">
+                <h2 class="uppercase"><strong>L’équipe</strong></h2>
+                <p>Nous sommes <strong>une petite équipe de passionnés de développement</strong> prêts à grandir avec vous. Si vous souhaitez être recruté(e)
+                     et <strong>devenir membre de notre communauté, les prérequis sont simples !</strong>
+                      Vous devez avoir un <strong>bon niveau en développement</strong> (Lua ou tout autre langage), mais ce qui nous importe surtout c'est votre bonne humeur
+                       et votre <strong>bienveillance envers les autres membres</strong>.  
+                  Nous vous <strong>encadrerons dès votre arrivée</strong> afin d'apprendre à vous connaître et voir votre travail ! ❤️</p>
+              </div>
+              <br>
+              <div class="row">
+      
+<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up">
+        <div class="member-img">
+            <img src="img/team-1.png" class="img-fluid" alt="Maxime Guinard de la team Development Source">
+
+        </div>
+        <div class="member-info">
+            <h5>Maxouuuuu.#7316</h5>
+            <span class="uppercase">Développeur Lua, Web</span>
+            <p>ㅤ</p>
+        </div>
+    </div>
+</div>
+
+<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+        <div class="member-img">
+            <img src="img/team-2.png" class="img-fluid" alt="Caduceus de la team Development Source">
+
+        </div>
+        <div class="member-info">
+            <h5>Im_Caduceus#5196</h5>
+            <span class="uppercase">Mappeur | GFX/VFX</span>
+            <p>ㅤ</p>
+        </div>
+    </div>
+</div>
+
+<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="200">
+        <div class="member-img">
+            <img src="img/team-3.png" class="img-fluid" alt="The Snipercoop de la team Development Source">
+
+        </div>
+        <div class="member-info">
+            <h5>The_SniperCoop#0666</h5>
+            <span class="uppercase">Débutant GLua</span>
+            <p>ㅤ</p>
+        </div>
+    </div>
+</div>
+
+<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="300">
+        <div class="member-img">
+            <img src="img/team-4.png" class="img-fluid" alt="Lau de la team Development Source">
+
+        </div>
+        <div class="member-info">
+            <h5>Lau.S18#4632</h5>
+            <span class="uppercase">GFX/VFX</span>
+            <p>ㅤ</p>
+        </div>
+    </div>
+</div>
+
+<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="300">
+        <div class="member-img">
+            <img src="img/team-5.png" class="img-fluid" alt="Lau de la team Development Source">
+
+        </div>
+        <div class="member-info">
+            <h5>Edouard#4795</h5>
+            <span class="uppercase">Développeur Lua, Java</span>
+        </div>
+    </div>
+</div>
+
+<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="300">
+        <div class="member-img">
+            <img src="img/team-6.jpg" class="img-fluid" alt="Lau de la team Development Source">
+
+        </div>
+        <div class="member-info">
+            <h5>Royality#6600</h5>
+            <span class="uppercase">Développeur Web</span>
+        </div>
+    </div>
+</div>
+
+<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="300">
+        <div class="member-img">
+            <img src="img/team-7.jpg" class="img-fluid" alt="Lau de la team Development Source">
+
+        </div>
+        <div class="member-info">
+            <h5>Dinaston#0722</h5>
+            <span class="uppercase">Développeur C#/++ BP PY PHP</span>
+        </div>
+    </div>
+</div>
+
+<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="300">
+        <div class="member-img">
+            <img src="img/team-8.jpg" class="img-fluid" alt="Lau de la team Development Source">
+
+        </div>
+        <div class="member-info">
+            <h5>CORBING.#9794</h5>
+            <span class="uppercase">Développeur Lua</span>
+        </div>
+    </div>
+</div>
+
+              </div>
+              
+            </div>
+          </section><!-- End Our Team Section -->
+      
+        </main><!-- End #main -->
+
+    <!-- top bar -->
+    <div class="top-bar">
+        <h1><a href="https://devsource.fr/services.html">Services</a></h1>
+        <p><a href="#">Accueil</a> / <a href="https://devsource.fr/services.html">Services</a></p>
+    </div>
+    <!-- end top bar -->
+
+    <div class="container main-container">
+        <div class="clearfix">
+
+            <!-- service-box -->
+            <div class="col-md-4 service-box">
+                <h3><a href="https://devsource.fr/contact.html">👋 Facile</a></h3>
+                <div class="h-10"></div>
+                <h5><strong>Nous proposons différentes formules de développement très attractifs à vous de faire votre choix</strong></h5>
+            </div>
+            <!-- end service-box -->
+
+            <!-- service-box -->
+            <div class="col-md-4 service-box">
+                <h3>✔️ Personnalisation facile</h3>
+                <div class="h-10"></div>
+                <h5><strong>Nous sommes à votre écoute et feront de notre mieux pour que vos soyers comme à la maison</strong></h5>
+            </div>
+            <!-- end service-box -->
+
+            <!-- service-box -->
+            <div class="col-md-4  service-box">
+                <h3><a href="https://devsource.fr/portfolio.html">💯 Qualité</a></h3>
+                <div class="h-10"></div>
+                <h5><strong>Development Source travaille avec des logiciels professionnels dans le but de vous fournir la meilleure qualité</strong></h5>
+            </div>
+            <!-- end service-box -->
+
+            <!-- service-box -->
+            <div class="col-md-4  service-box">
+                <h3><a href="https://devsource.fr/merci.html">💻 Convivial</a></h3>
+                <div class="h-10"></div>
+                <h5><strong>Nous sommes une bande de potes qui aime le développement et faire bouger les choses</strong></h5>
+            </div>
+            <!-- end service-box -->
+
+            <!-- service-box -->
+            <div class="col-md-4  service-box">
+                <h3><a href="https://forum.devsource.fr/">🌍 Connecté</a></h3>
+                <div class="h-10"></div>
+                <h5><strong>Nous restons connecté pour être à votre écoute durant votre projet, et à votre disposition pour vous conseiller</strong></h5>
+            </div>
+            <!-- end service-box -->
+
+            <!-- service-box -->
+            <div class="col-md-4  service-box">
+                <h3>💨 Rapidité</h3>
+                <div class="h-10"></div>
+                <h5><strong>Nous vous assurons une réactivité exceptionnelle afin de vous livrer votre commande dans les plus brefs délais</strong></h5>
+            </div>
+            <!-- end service-box -->
+
+        </div>
+
+        
+    </div>
+
+<!-- top bar -->
+<div class="top-bar">
+    <h1><a href="https://devsource.fr/contact">Contact</a></h1>
+    <p><a href="#">Accueil</a><a href="https://devsource.fr/contact"> / Contact</p>
+</div>
+<!-- end top bar -->
+
+<!-- Main container -->
+<div class="container main-container clearfix">
+    <div class="col-md-6">
+        <img src="img/wallpaper.jpg" class="img-responsive" alt="Development Source BackGround" />
+        <div class="contact-info">
+            <p><i class="ion-android-call"></i> <a href="https://discord.gg/K2uUHdf">Discord</a></p>
+            <p><i class="ion-android-options"></i><a href="https://maxime-guinard.fr">Maxime Guinard</a></p>
+            <p><i class="ion-ios-email"></i><strong>dev@maxime-guinard.fr</strong></p>
+
+        </div>
+    </div>
+    <div class="col-md-6">
+        <h3 class="uppercase"><a href="https://discord.gg/K2uUHdf">Contact</a></h3>
+        <h5><strong>Nous sommes ouvert à la discution !</strong></h5>
+        <div class="h-30"></div>
+        <p>"Nous avons une <strong>préférence pour Discord</strong> mais nous avons <strong>aussi un mail</strong> quand même on est en 2022 😎"</p>
+        <div class="h-10"></div>
+        <ul class="social-ul">
+<li class="box-social"><a href="https://www.linkedin.com/company/86017955/"><i class="ion-social-linkedin"></i></a></li>
+
+<li class="box-social"><a href="https://www.instagram.com/devsource.fr/"><i class="ion-social-instagram-outline"></i></a></li>
+
+<li class="box-social"><a href="https://www.youtube.com/channel/UCYhgeBbhMjhcVyPJpu2O2TQ"><i class="ion-social-youtube"></i></a></li>
+        </ul>
+
+
+    </div>
+</div>
+<!-- end Main container -->
+
+<!-- top bar -->
+<div class="top-bar">
+    <h1><a href="https://devsource.fr/blogs.html">Blogs</a></h1>
+    <p><a href="#">Accueil</a> / <a href="https://devsource.fr/blogs">Blogs</a></p>
+</div>
+<!-- end top bar -->
+
+
+<!-- Main Content -->
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<hr>
+<div class="post-preview">
+    <a href="blogs/arrondir-un-nombre-lentier-le-plus-proche.html">
+        <h2 class="post-title">
+            Arrondir un nombre à l'entier le plus proche !
+        </h2>
+        <h3 class="post-subtitle">
+            🔥 Dans de nombreuses situations, vous vous retrouverez dans une situation où vous souhaitez arrondir un
+            nombre à virgule
+            flottante à l'entier le plus proche dans votre code Python 3.
+        </h3>
+    </a>
+    <p class="post-meta">Posté par <a href="https://www.maxime-guinard.fr/">GUINARD Maxime</a> le 13/03/2022</p>
+</div>
+<hr>
+<div class="post-preview">
+    <a href="blogs/quel-langage-de-programmation.html">
+        <h2 class="post-title">
+            🏴‍☠️ Avec quel langage de programmation commencer ?
+        </h2>
+        <h3 class="post-subtitle">
+            Depuis que j'ai commencé mon blog, je reçois constamment cette question
+            de la part de programmeurs
+        </h3>
+    </a>
+    <p class="post-meta">Posté par <a href="https://www.maxime-guinard.fr/">GUINARD Maxime</a> le 13/03/2022</p>
+</div>
+<hr>
+<div class="post-preview">
+    <a href="blogs/operateurs-d'union-de-dictionnaire.html">
+        <h2 class="post-title">
+            ✂️ Explication des opérateurs d'union de dictionnaire Python
+        </h2>
+        <h3 class="post-subtitle">
+            Nous avons tous ces moments où nous voulons fusionner deux dictionnaires Python en fonction de leurs clés.
+        </h3>
+    </a>
+    <p class="post-meta">Posté par <a href="https://www.maxime-guinard.fr/">GUINARD Maxime</a> le 12/03/2022</p>
+</div>
+<hr>
+<div class="post-preview">
+    <a href="blogs/quest-ce-que-le-decapage-en-python.html">
+        <h2 class="post-title">
+            Qu'est-ce que le décapage en Python ? (Guide détaillé) 📝
+        </h2>
+        <h3 class="post-subtitle">
+            Le décapage en Python signifie le processus de sérialisation d'un objet
+        </h3>
+    </a>
+    <p class="post-meta">Posté par <a href="https://www.maxime-guinard.fr/">GUINARD Maxime</a> le 12/03/2022</p>
+</div>
+<hr>
+
+            <div class="post-preview">
+                <a href="blogs/hebergementdevsource.html">
+                    <h2 class="post-title">
+                        L'Hébergement de Development Source 🗞️
+                    </h2>
+                </a>
+                <p class="post-meta"><strong>Posté par</strong> <a href="https://www.maxime-guinard.fr/">GUINARD Maxime</a> le 12/01/2022
+                </p>
+            </div>
+            <hr>
+            <div class="post-preview">
+                <a href="blogs/liferprecrute.html">
+                    <p>ㅤ</p>
+                    <h2 class="post-title">
+                        Une annonce de LifeRP Il recrute masse de staff
+                    </h2>
+                    <h3 class="post-subtitle">
+                        Le serveur ouvre ce dimanche 16/02/2022 😀
+                    </h3>
+                </a>
+                <p class="post-meta"><strong>Posté par</strong> <a href="https://www.maxime-guinard.fr/">GUINARD Maxime</a> le 03/12/2022
+                </p>
+            </div>
+            <hr>
+            <div class="post-preview">
+                <a href="https://maxime-guinard.com/">
+                    <p>ㅤ</p>
+                    <h2 class="post-title">
+                        💯 La présensation de LifeRP un serveur Garry's mod
+                    </h2>
+                    <h3 class="post-subtitle">
+                        Orienté vers un semi sérious RP...
+                    </h3>
+                </a>
+                <p class="post-meta"><strong>Posté par</strong> <a href="https://www.maxime-guinard.fr/">GUINARD Maxime</a> le 01/08/2021
+                </p>
+            </div>
+            <hr>
+            <div class="post-preview">
+                <a href="blogs/debutdusite.html">
+                    <p>ㅤ</p>
+                    <h2 class="post-title">
+                        Début de Development Source (DevSource.fr) 🎮
+                    </h2>
+                    <h3 class="post-subtitle">
+                        Avec ma bande de pote sur un grand projet qui nous réunis. Development Source
+                    </h3>
+                </a>
+                <p class="post-meta"><strong>Posté par</strong> <a href="https://www.maxime-guinard.fr/">GUINARD Maxime</a> le 01/05/2020
+                </p>
+            </div>
+            <hr>
+            <!-- Pager -->
+            <ul class="pager">
+                <li class="next">
+                    <a href="https://devsource.fr/blogs.html">BLOGS &rarr;</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!--hm-footer start-->
+<footer class="footer-copyright">
+    <div class="container">
+        <div class="hm-footer-details">
+            <div class="row">
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="hm-footer-widget">
+                        <div class="hm-foot-title ">
+                            <div class="logo">
+                                <a href="index.html">
+                                    <img src="img/logo.png" width="80" alt="Logo" />
+                                </a>
+                            </div><!-- /.logo-->
+                        </div>
+                        <!--/.hm-foot-title-->
+                        <div class="hm-foot-para">
+                                                <p>ㅤ</p>
+                            <p>
+Le serveur dispose de channels dédiés au Lua, Python, HTML, Javascript... Vous pourrez aussi y présenter vos serveurs de jeux. Il est organisé par niveau, vous permettant de mieux vous y retrouver.
+
+                            </p>
+                        </div>
+                        <!--/.hm-foot-para-->
+                        <div class="hm-foot-icon">
+<a href="https://www.linkedin.com/company/86017955/"><i class="ion-social-linkedin" aria-hidden="true"></i></a>
+<!--/li-->
+<a href="https://www.youtube.com/channel/UCYhgeBbhMjhcVyPJpu2O2TQ"><i class="ion-social-youtube" aria-hidden="true"></i>
+</a>
+<!--/li-->
+<a href="https://www.instagram.com/devsource.fr/"><i class="ion-social-instagram" aria-hidden="true"></i></a>
+<!--/li-->
+<a href="https://github.com/MaximeGuinard"><i class="ion-social-github" aria-hidden="true"></i>
+</a>
+                                <!--/li-->
+                            <!--/ul-->
+                        </div>
+                        <!--/.hm-foot-icon-->
+                    </div>
+                    <!--/.hm-footer-widget-->
+                </div>
+                <!--/.col-->
+                <div class=" col-md-2 col-sm-6 col-xs-12">
+                    <div class="hm-footer-widget">
+                        <div class="hm-foot-title">
+                            <h4>Liens utiles</h4>
+                        </div>
+                        <!--/.hm-foot-title-->
+                        <div class="footer-menu ">
+                            <ul class="">
+                                <li><a href="https://devsource.fr/apropos.html">À propos</a></li>
+                                <li><a href="https://devsource.fr/blogs.html">Blogs</a></li>
+                                <li><a href="https://forum.devsource.fr/">Forum</a></li>
+                                <li><a href="https://devsource.fr/services.html">Service</a></li>
+                                <li><a href="https://devsource.fr/portfolio.html">Portfolio</a></li>
+                                <li><a href="https://devsource.fr/merci.html">Merci</a></li>
+                                <li><a href="https://devsource.fr/contact.html">Contact</a></li>
+                            </ul>
+                        </div><!-- /.footer-menu-->
+                    </div>
+  <!--/.hm-footer-widget-->
+        </div>
+        <!--/.col-->
+        <div class=" col-md-3 col-sm-6 col-xs-12">
+          <div class="hm-footer-widget">
+            <div class="hm-foot-title">
+              <h4>Nos sites</h4>
+            </div>
+            <!--/.hm-foot-title-->
+            <div class="hm-para-news">
+              <a href="https://maxime-guinard.com/">
+                Maxime GUINARD
+              </a>
+            </div>
+            <!--/.hm-para-news-->
+            <div class="hm-para-news">
+              <a href="http://katabami.fr/">
+                Katabami
+              </a>
+            </div>
+            <!--/.hm-para-news-->
+            <div class="hm-para-news">
+              <a>
+                ‎ ‎ 
+              </a>
+            </div>
+          <!--/.hm-footer-widget-->
+                </div>
+                        <!--/.hm-foot-title-->
+                        <div class="hm-foot-para">
+                            <p class="para-news">
+                                © Copyright DevSource. All Rights Reserved
+                            </p>
+                        </div>
+                <div class="hm-foot-para">
+                    <p class="para-news">
+                        <a href="https://devsource.fr/plandusite.html">
+                            Plan du site
+                        </a>
+                    </p>
+                </div>
+                        <!--/.hm-foot-para-->
+                        <div class="hm-foot-icon">
+<a href="https://www.linkedin.com/company/86017955/"><i class="ion-social-linkedin" aria-hidden="true"></i></a>
+<!--/li-->
+<a href="https://www.youtube.com/channel/UCYhgeBbhMjhcVyPJpu2O2TQ"><i class="ion-social-youtube" aria-hidden="true"></i>
+</a>
+<!--/li-->
+<a href="https://www.instagram.com/devsource.fr/"><i class="ion-social-instagram" aria-hidden="true"></i></a>
+<!--/li-->
+<a href="https://github.com/MaximeGuinard"><i class="ion-social-github" aria-hidden="true"></i>
+</a>
+                                <!--/li-->
+                        </div>
+                        </div>
+                        <!--/.hm-foot-email-->
+                    </div>
+                    <!--/.hm-footer-widget-->
+                </div>
+                <!--/.col-->
+            </div>
+            <!--/.row-->
+        </div>
+        <!--/.hm-footer-details-->
+    </div>
+    <!--/.container-->
+
+</footer>
+
+    <!-- back to top -->
+    <a href="#0" class="cd-top"><i class="ion-android-arrow-up"></i></a>
+    <!-- end back to top -->
+
+
+
+    <!-- jQuery -->
+    <script src="js/jquery-2.1.1.js"></script>
+    <!--  plugins -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/menu.js"></script>
+    <script src="js/animated-headline.js"></script>
+    <script src="js/isotope.pkgd.min.js"></script>
+
+
+    <!--  custom script -->
+    <script src="js/custom.js"></script>
+
+</body>
+
+</html>
